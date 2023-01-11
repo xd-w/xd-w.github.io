@@ -87,7 +87,7 @@ author:
   employer         : "The Chinese University of Hongkong, Shenzhen"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "xudongwang@link.cuhk.edu.cn"
+  email            : "xudongwang@link.cuhk.edu.cn" xudongwang@link.cuhk.edu.cn
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              :
 #   bitbucket        :
@@ -96,14 +96,14 @@ author:
 #   flickr           :
 #   facebook         :
 #   foursquare       :
-  github           : "MathAdventurer"
+  github           : "MathAdventurer" @MathAdventurer
 #   google_plus      :
 #   keybase          :
 #   instagram        :
 #   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
 #   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+#   linkedin         :
+  orcid            : "https://orcid.org/0000-0001-7723-9966"
 #   pinterest        :
 #   soundcloud       :
 #   stackoverflow    : # http://stackoverflow.com/users/123456/username
