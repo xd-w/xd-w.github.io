@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xudong Wang (王旭东)"
   avatar           : "profile.png"
-  bio              : "Phd Student in Computer Science"
+  bio              : "Phd Student"
   location         : "Shenzhen, China"
   employer         : "The Chinese University of Hongkong, Shenzhen"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "xudongwang@link.cuhk.edu.cn" xudongwang@link.cuhk.edu.cn
+  email            : "xudongwang@link.cuhk.edu.cn" 
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              :
 #   bitbucket        :
@@ -96,7 +96,7 @@ author:
 #   flickr           :
 #   facebook         :
 #   foursquare       :
-  github           : "MathAdventurer" @MathAdventurer
+  github           : "MathAdventurer"
 #   google_plus      :
 #   keybase          :
 #   instagram        :
