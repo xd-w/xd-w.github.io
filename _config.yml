@@ -84,10 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Phd Student"
   location         : "Shenzhen, China"
-  employer         : "The Chinese University of Hongkong, Shenzhen"
+  employer         : "School of Data Science"
+  employer         : "CUHK-Shenzhen"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "xudongwang@link.cuhk.edu.cn" 
+  email: xudongwang@link.cuhk.edu.cn: "xudongwang@link.cuhk.edu.cn"
 #   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
 #   uri              :
 #   bitbucket        :
