@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: Xudong Wang"
+title: Xudong Wang's Homepage
 academicpages is a ready-to-fork GitHub Pages template for academic personal websitesexcerpt: "About me"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
