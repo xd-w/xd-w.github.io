@@ -48,14 +48,14 @@ Publication
 
     - 专利号: CN202210620528, ICPC分类号: H02J3/00
 
-Talk:
+Talk
 =====
 - Presentation in International Conference ACM e-Energy 2022
     - Recording: [https://youtu.be/sBAtrK5vS9U](https://youtu.be/sBAtrK5vS9U).
     - Slides: [link](https://cuhko365-my.sharepoint.com/:b:/g/personal/220041020_link_cuhk_edu_cn/EeQL2SnBfjVFiSVy2J_Qhb8BK-0OFAsCoBeM207anHFzkA?e=LirUTw)
 
 
-Teaching:
+Teaching
 =====
 - Teaching Assistant (TA) in SDS, CUHK-Shenzhen:
    - **Leading TA**, MFE 5310(PG Course) - Machine learning and its application, Term 2, AY2021-2022.
