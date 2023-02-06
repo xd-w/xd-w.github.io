@@ -10,9 +10,11 @@ redirect_from:
 
 About me
 ======  
-Welcome to my [Homepage](https://xd-w.github.io)! I am Xudong Wang (王旭东), a Phd student in Computer Science from School of Data Science (SDS), The Chinese University of Hongkong, Shenzhen (CUHK-Shenzhen). Before that, I got the M.Sc. in Data Science from CUHK-Shenzhen in 2022. And in 2020, I got B.Sc. in Statistics from School of Mathematics and B.Ec. in Finance from School of Economics of Shandong University (SDU) respectively.
+Welcome to my [Homepage](https://xd-w.github.io)! I am Xudong Wang (王旭东) [[xudongwang@link.cuhk.edu.cn](xudongwang@link.cuhk.edu.cn)], a Phd student in Computer Science from School of Data Science ([SDS](https://sds.cuhk.edu.cn/en)), The Chinese University of Hongkong, Shenzhen ([CUHK-Shenzhen](https://www.cuhk.edu.cn/en)). Before that, I got the M.Sc. in Data Science from CUHK-Shenzhen in 2022. And in 2020, I got B.Sc. in Statistics from School of Mathematics and B.Ec. in Finance from School of Economics of Shandong University ([SDU](https://www.sdu.edu.cn)) respectively.
 
 My research interests and fields are Artificial intelligence (AI), Machine Learning (ML), Matrix-tensor Factorization and Sparse Optimization, Smart Grid. Both my master and phd supervisors are [Prof. Chris Ding](https://sds.cuhk.edu.cn/en/teacher/197) [[Google Scholar](https://scholar.google.com/citations?user=q7FfnjgAAAAJ&hl=zh-CN&oi=ao)]. 
+
+I am open for internship position in 2023 Summer. If you are interested in my research or some topics, you can contact me via [email](xudongwang@link.cuhk.edu.cn)~
 
 Publication
 =====
@@ -55,7 +57,7 @@ Talk:
 
 Teaching:
 =====
-
- - Leading Teaching Assistant, MFE 5310 - Machine learning and its application, Term 2, AY2021-2022.
- - Leading Teaching Assistant, DDA 3020 - Machine learning , Term 1, AY2022-2023.
- - Leading Teaching Assistant, MFE 5310 - Machine learning and its application, Term 2, AY2022-2023.
+- Teaching Assistant (TA) in SDS, CUHK-Shenzhen:
+   - **Leading TA**, MFE 5310(PG Course) - Machine learning and its application, Term 2, AY2021-2022.
+   - **Leading TA**, DDA3020 (UG Course) - Machine learning, Term 1, AY2022-2023.
+   - **Leading TA**, MFE5310 (PG Course) - Machine learning and its application, Term 2, AY2022-2023.
