@@ -92,8 +92,6 @@ HONORS & AWARDS
 <meta http-equiv="Content-Type" content="text/html; charset=iso-latin-1"/>
 </head>
 <body>
-
-
 <li> Presidential Award for Outstanding Graduate Students. <span style="float:right;"> Nov. 2022
 
 <li> Excellent Academic Scholarship of Master of Science in Data Science. <span style="float:right;"> June. 2022 
@@ -133,6 +131,5 @@ HONORS & AWARDS
 <li>First Award (Provincial level), Shandong Province College Students Business Plan Competition <span style="float:right;"> Oct. 2017 
 
 <li>Third Place (Provincial level), China College Baseball Competition(Shandong Division). <span style="float:right;"> May. 2018
-
 </body>
 </html>
