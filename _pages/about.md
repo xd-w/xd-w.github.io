@@ -62,4 +62,77 @@ Teaching
    - **Leading TA**, [DDA3020](https://www.cuhk.edu.cn/en/course/8098) (UG Course) - Machine learning, Term 1, AY2022-2023.
        - Selected of my tutorial materials: [Tutorial for Numpy and Sklearn API](https://github.com/MathAdventurer/DDA3020-Tutorials-AY22-23T1-Archieved/tree/main/Tutorial1), [Tutorial for Numpy Linear Algebra and Least Square Optimization Problem in Python](https://github.com/MathAdventurer/DDA3020-Tutorials-AY22-23T1-Archieved/tree/main/Tutorial2).
        - Selected of my tutorial recordings: [[1]](https://cuhko365-my.sharepoint.com/:v:/g/personal/220041020_link_cuhk_edu_cn/EYMt_HJ-vQxNkOxGMzC5_cgBfT72LSn0sSi68KipulkqTg?e=Ol7eU8),[[2]](https://cuhko365-my.sharepoint.com/:v:/g/personal/220041020_link_cuhk_edu_cn/EQlJ2l9IyaJJhB5Cp61pJ10BfRLeeiiLATF5WFVC3Imjuw?e=lLkByi).  
-   - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2022-2023.
+   - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2022-2023i. 
+
+
+HONORS & AWARDS
+===
+
+<html>
+<head>
+<title>LaTeX4Web 1.4 OUTPUT</title>
+<style type="text/css">
+<!--
+ body {color: black;  background-color:#FFCC99;  }
+ div.p { margin-top: 7pt;}
+ td div.comp { margin-top: -0.6ex; margin-bottom: -1ex;}
+ td div.comb { margin-top: -0.6ex; margin-bottom: -.6ex;}
+ td div.norm {line-height:normal;}
+ td div.hrcomp { line-height: 0.9; margin-top: -0.8ex; margin-bottom: -1ex;}
+ td.sqrt {border-top:2 solid black;
+          border-left:2 solid black;
+          border-bottom:none;
+          border-right:none;}
+ table.sqrt {border-top:2 solid black;
+             border-left:2 solid black;
+             border-bottom:none;
+             border-right:none;}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-latin-1"/>
+</head>
+<body>
+
+
+<li> Presidential Award for Outstanding Graduate Students. <span style="float:right;"> Nov. 2022
+
+<li> Excellent Academic Scholarship of Master of Science in Data Science. <span style="float:right;"> June. 2022 
+
+<li> First Class Merit Scholarship of Master of Science in Data Science. <span style="float:right;"> June. 2022
+
+<li> Entrance Scholarship for Excellent Postgraduate <span style="float:right;"> Sept. 2020
+
+<li> Outstanding graduates of 2020, Shandong University <span style="float:right;"> May. 2020
+
+<li> Excellent Graduation Design & Thesis (Both Double Degrees) of Shandong University <span style="float:right;"> Mar. 2020
+
+<li> Excellent student scholarship of Shandong University <span style="float:right;"> Nov. 2018
+
+<li> Excellent Student Cadres Award of Shandong University <span style="float:right;"> Nov. 2018
+
+<li> Excellent Individuals in Innovation and Entrepreneurs of Shandong University  <span style="float:right;"> May. 2017 & 2018
+
+<li> Excellent Individuals in Social Practice of Shandong University <span style="float:right;"> Nov. 2018
+
+<li> Excellent Individuals in Campus Network Culture Center of Shandong University 
+<span style="float:right;"> May. 2017 & 2018
+
+<li> Honorable Award, COMAP Interdisciplinary Contest in Modeling (ICM) <span style="float:right;"> Apr. 2019
+
+<li> Honorable Award, COMAP Mathematical Contest in Modeling (MCM) <span style="float:right;"> Apr. 2018
+
+<li> First Award (Provincial level), Shandong Province Undergraduate Physics Competition <span style="float:right;"> Dec. 2018
+
+<li>Third Award (National level), China Undergraduate Mathematics Competition (Math Major)
+<span style="float:right;"> Nov. 2017
+
+<li>Second Award (Provincial level), Shandong Undergraduate Mathematics Competition (Math Major). <span style="float:right;"> Nov. 2017
+
+<li>First Award (Provincial level), China Undergraduate Mathematical Contest in Modeling (CUMCM) <span style="float:right;"> Oct. 2017
+
+<li>First Award (Provincial level), Shandong Province College Students Business Plan Competition <span style="float:right;"> Oct. 2017 
+
+<li>Third Place (Provincial level), China College Baseball Competition(Shandong Division). <span style="float:right;"> May. 2018
+
+</body>
+</html>
