@@ -62,36 +62,13 @@ Teaching
    - **Leading TA**, [DDA3020](https://www.cuhk.edu.cn/en/course/8098) (UG Course) - Machine learning, Term 1, AY2022-2023.
        - Selected of my tutorial materials: [Tutorial for Numpy and Sklearn API](https://github.com/MathAdventurer/DDA3020-Tutorials-AY22-23T1-Archieved/tree/main/Tutorial1), [Tutorial for Numpy Linear Algebra and Least Square Optimization Problem in Python](https://github.com/MathAdventurer/DDA3020-Tutorials-AY22-23T1-Archieved/tree/main/Tutorial2).
        - Selected of my tutorial recordings: [[1]](https://cuhko365-my.sharepoint.com/:v:/g/personal/220041020_link_cuhk_edu_cn/EYMt_HJ-vQxNkOxGMzC5_cgBfT72LSn0sSi68KipulkqTg?e=Ol7eU8),[[2]](https://cuhko365-my.sharepoint.com/:v:/g/personal/220041020_link_cuhk_edu_cn/EQlJ2l9IyaJJhB5Cp61pJ10BfRLeeiiLATF5WFVC3Imjuw?e=lLkByi).  
-   - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2022-2023i. 
+   - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2022-2023. 
 
 
 HONORS & AWARDS
 ===
 
 <html>
-<!-- <head>
-<title>LaTeX4Web 1.4 OUTPUT</title>
-<style type="text/css">
-<!--
- body {color: black;  background-color:#FFCC99;  }
- div.p { margin-top: 7pt;}
- td div.comp { margin-top: -0.6ex; margin-bottom: -1ex;}
- td div.comb { margin-top: -0.6ex; margin-bottom: -.6ex;}
- td div.norm {line-height:normal;}
- td div.hrcomp { line-height: 0.9; margin-top: -0.8ex; margin-bottom: -1ex;}
- td.sqrt {border-top:2 solid black;
-          border-left:2 solid black;
-          border-bottom:none;
-          border-right:none;}
- table.sqrt {border-top:2 solid black;
-             border-left:2 solid black;
-             border-bottom:none;
-             border-right:none;}
--->
-<!-- </style>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-latin-1"/>
-</head> -->
-<!-- <body> --> 
 <li> Presidential Award for Outstanding Graduate Students. <span style="float:right;"> Nov. 2022
 
 <li> Excellent Academic Scholarship of Master of Science in Data Science. <span style="float:right;"> June. 2022 
