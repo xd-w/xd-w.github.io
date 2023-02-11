@@ -131,5 +131,4 @@ HONORS & AWARDS
 <li>First Award (Provincial level), Shandong Province College Students Business Plan Competition <span style="float:right;"> Oct. 2017 
 
 <li>Third Place (Provincial level), China College Baseball Competition(Shandong Division). <span style="float:right;"> May. 2018
-<!-- </body> -->
-</html>
+
