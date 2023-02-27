@@ -12,7 +12,7 @@ About me
 ======  
 Welcome to my [Homepage](https://xd-w.github.io)! I am Xudong Wang (王旭东) [**xudongwang@link.cuhk.edu.cn**], a Phd student in Computer Science from School of Data Science ([SDS](https://sds.cuhk.edu.cn/en)), The Chinese University of Hongkong, Shenzhen ([CUHK-Shenzhen](https://www.cuhk.edu.cn/en)). Before that, I got the M.Sc. in Data Science from CUHK-Shenzhen in 2022. And in 2020, I got B.Sc. in Statistics from School of Mathematics and B.Ec. in Finance from School of Economics of Shandong University ([SDU](https://www.sdu.edu.cn)) respectively.
 
-My research interests and fields are Artificial intelligence (AI), Machine Learning (ML), Matrix-tensor Factorization and Sparse Optimization, Smart Grid. Both my master and phd supervisors are [Prof. Chris Ding](https://sds.cuhk.edu.cn/en/teacher/197) [[Google Scholar](https://scholar.google.com/citations?user=q7FfnjgAAAAJ&hl=zh-CN&oi=ao)]. 
+My research interests and fields are Artificial intelligence (AI), Machine Learning (ML), Matrix-tensor Factorization and Sparse Optimization, Smart Grid. Both my master and phd supervisor (main) are [Prof. Chris Ding](https://sds.cuhk.edu.cn/en/teacher/197) [[Google Scholar](https://scholar.google.com/citations?user=q7FfnjgAAAAJ&hl=zh-CN&oi=ao)], and I am also co-supervised from [Prof. Tongxin Li](https://tongxin.me).
 
 I am available and seeking internship position in 2023 Summer (Prefer Hongkong, Shenzhen intern opportunity and I have IANG Visa now). If you are interested in my research or some topics, you can contact me via email: [**xudongwang@link.cuhk.edu.cn**]~
 
