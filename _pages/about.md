@@ -14,7 +14,7 @@ Welcome to my [Homepage](https://xd-w.github.io)! I am Xudong Wang (王旭东) [
 
 My research interests and fields are Artificial intelligence (AI), Machine Learning (ML), Matrix-tensor Factorization and Sparse Optimization, Smart Grid. Both my master and phd supervisor (main) are [Prof. Chris Ding](https://sds.cuhk.edu.cn/en/teacher/197) [[Google Scholar](https://scholar.google.com/citations?user=q7FfnjgAAAAJ&hl=zh-CN&oi=ao)]. And I am also co-supervised from [Prof. Tongxin Li](https://tongxin.me).
 
-I am available and seeking internship position in 2023 Summer (Prefer Hongkong, Shenzhen intern opportunity and I have IANG Visa now). If you are interested in my research or some topics, you can contact me via email: [**xudongwang@link.cuhk.edu.cn**]~
+I am available and seeking part-time research internship position (Prefer Hongkong/Shenzhen intern opportunity and I have IANG Visa now). If you are interested in my research or some topics, you can contact me via email: [**xudongwang@link.cuhk.edu.cn**]~
 
 Publication
 =====
