@@ -59,12 +59,13 @@ Talk
 Teaching
 =====
 - Teaching Assistant (TA) in SDS, CUHK-Shenzhen:
-   - **Leading TA**, [MFE 5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2021-2022.
+   - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2021-2022.
    - **Leading TA**, [DDA3020](https://www.cuhk.edu.cn/en/course/8098) (UG Course) - Machine learning, Term 1, AY2022-2023.
        - Selected of my tutorial materials: [Tutorial for Numpy and Sklearn API](https://github.com/MathAdventurer/DDA3020-Tutorials-AY22-23T1-Archieved/tree/main/Tutorial1), [Tutorial for Numpy Linear Algebra and Least Square Optimization Problem in Python](https://github.com/MathAdventurer/DDA3020-Tutorials-AY22-23T1-Archieved/tree/main/Tutorial2).
        - Selected of my tutorial recordings: [[1]](https://cuhko365-my.sharepoint.com/:v:/g/personal/220041020_link_cuhk_edu_cn/EYMt_HJ-vQxNkOxGMzC5_cgBfT72LSn0sSi68KipulkqTg?e=Ol7eU8),[[2]](https://cuhko365-my.sharepoint.com/:v:/g/personal/220041020_link_cuhk_edu_cn/EQlJ2l9IyaJJhB5Cp61pJ10BfRLeeiiLATF5WFVC3Imjuw?e=lLkByi).  
    - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2022-2023. 
-
+   -  **TA**, [CSC6021 & AIR6001 & MDS6105](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Artificial Intelligence, Term 1, AY2023-2024. 
+       - Selected of my tutorial materials: [Tutorial for Graph Representation](https://github.com/xd-w/xd-w.github.io/tree/files/CSC6021-Tutorial-GraphRepresentation.pdf).
 
 HONORS & AWARDS
 ===
