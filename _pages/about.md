@@ -65,7 +65,7 @@ Teaching
        - Selected of my tutorial recordings: [[1]](https://cuhko365-my.sharepoint.com/:v:/g/personal/220041020_link_cuhk_edu_cn/EYMt_HJ-vQxNkOxGMzC5_cgBfT72LSn0sSi68KipulkqTg?e=Ol7eU8),[[2]](https://cuhko365-my.sharepoint.com/:v:/g/personal/220041020_link_cuhk_edu_cn/EQlJ2l9IyaJJhB5Cp61pJ10BfRLeeiiLATF5WFVC3Imjuw?e=lLkByi).  
    - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2022-2023. 
    -  **TA**, [CSC6021 & AIR6001 & MDS6105](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Artificial Intelligence, Term 1, AY2023-2024. 
-       - Selected of my tutorial materials: [Tutorial for Graph Representation](https://d-w.github.io/files/CSC6021-Tutorial-GraphRepresentation.pdf).
+       - Selected of my tutorial materials: [Tutorial for Graph Representation](https://xd-w.github.io/files/CSC6021-Tutorial-GraphRepresentation.pdf).
 
 HONORS & AWARDS
 ===
