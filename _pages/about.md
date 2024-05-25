@@ -12,13 +12,19 @@ About me
 ======  
 Welcome to my [Homepage](https://xd-w.github.io)! I am Xudong Wang (王旭东) [**xudongwang@link.cuhk.edu.cn**], a Phd student in Computer Science from School of Data Science ([SDS](https://sds.cuhk.edu.cn/en)), The Chinese University of Hongkong, Shenzhen ([CUHK-Shenzhen](https://www.cuhk.edu.cn/en)). Before that, I got the M.Sc. in Data Science from CUHK-Shenzhen in 2022. And in 2020, I got B.Sc. in Statistics from School of Mathematics and B.Ec. in Finance from School of Economics of Shandong University ([SDU](https://www.sdu.edu.cn)) respectively.
 
-My research interests and fields are Artificial intelligence (AI), Machine Learning (ML), Matrix-tensor Factorization and Sparse Optimization, Smart Grid. Both my master and phd supervisor (main) are [Prof. Chris Ding](https://sds.cuhk.edu.cn/en/teacher/197) [[Google Scholar](https://scholar.google.com/citations?user=q7FfnjgAAAAJ&hl=zh-CN&oi=ao)]. And I am also co-supervised from [Prof. Tongxin Li](https://tongxin.me).
+My research fields are Artificial intelligence (AI) and Machine Learning (ML). And my Phd research topics are Graph Representation Learning and Smart Grid. My Phd supervisors are [Prof. Chris Ding](https://sds.cuhk.edu.cn/en/teacher/197) [[Google Scholar](https://scholar.google.com/citations?user=q7FfnjgAAAAJ&hl=zh-CN&oi=ao)] and [Prof. Tongxin Li](https://tongxin.me).
 
 <!-- I am available and seeking part-time research internship position (Prefer Hongkong/Shenzhen intern opportunity and I have IANG Visa now).  -->
-If you are interested in my research or some topics, you can contact me via email: [**xudongwang@link.cuhk.edu.cn**]~
+Welcome to more exchanges and If you are interested in my research works, you can contact me via email: [**xudongwang@link.cuhk.edu.cn**].
 
 Publication
 =====
+- **Paper:** Learning Graph Representation via Graph Entropy Maximization
+
+    - *Ziheng Sun, **Xudong Wang**, Chris Ding, Jicong Fan*
+
+    - The 41th International Conference on Machine Learning (ICML 2024)
+
 - **Paper:** EVSense: a robust and scalable approach to non-intrusive EV charging detection 
 
     - [https://dl.acm.org/doi/10.1145/3538637.3538860](https://dl.acm.org/doi/10.1145/3538637.3538860). 
@@ -66,6 +72,7 @@ Teaching
    - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2022-2023. 
    -  **TA**, [CSC6021 & AIR6001 & MDS6105](https://sds.cuhk.edu.cn/en/phd-programmes-CSE/curriculum) (PG Course) - Artificial Intelligence, Term 1, AY2023-2024. 
        - Selected of my tutorial materials: [Tutorial for Graph Representation](https://xd-w.github.io/files/CSC6021-Tutorial-GraphRepresentation.pdf).
+   - **Leading TA**, [MFE5310](https://mscfe.cuhk.edu.cn/page/35) (PG Course) - Machine learning and its application, Term 2, AY2023-2024. 
 
 HONORS & AWARDS
 ===
@@ -110,4 +117,3 @@ HONORS & AWARDS
 <li>First Award (Provincial level), Shandong Province College Students Business Plan Competition <span style="float:right;"> Oct. 2017 
 
 <li>Third Place (Provincial level), China College Baseball Competition(Shandong Division). <span style="float:right;"> May. 2018
-
