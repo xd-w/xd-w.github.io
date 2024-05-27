@@ -21,6 +21,8 @@ Publication
 =====
 - **Paper:** Learning Graph Representation via Graph Entropy Maximization
 
+    - [https://icml.cc/virtual/2024/poster/32687](https://icml.cc/virtual/2024/poster/32687)
+
     - *Ziheng Sun, **Xudong Wang**, Chris Ding, Jicong Fan*
 
     - The 41th International Conference on Machine Learning (ICML 2024)
