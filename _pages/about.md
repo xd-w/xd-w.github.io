@@ -12,7 +12,7 @@ About me
 ======  
 Welcome to my [Homepage](https://xd-w.github.io)! I am Xudong Wang (王旭东) [**xudongwang@link.cuhk.edu.cn**], PhD Candidate in Computer Science from School of Data Science ([SDS](https://sds.cuhk.edu.cn/en)), The Chinese University of Hongkong, Shenzhen ([CUHK-Shenzhen](https://www.cuhk.edu.cn/en)). Before that, I got the M.Sc. in Data Science from CUHK-Shenzhen in 2022. And in 2020, I got B.Sc. in Statistics from School of Mathematics and B.Ec. in Finance from School of Economics of Shandong University ([SDU](https://www.sdu.edu.cn)) respectively.
 
-My research fields are Artificial intelligence (AI) and Machine Learning (ML). And my Phd research topics are Graph Representation Learning and Smart Grid. My Phd supervisors are [Prof. Chris Ding](https://sds.cuhk.edu.cn/en/teacher/197) [[Google Scholar](https://scholar.google.com/citations?user=q7FfnjgAAAAJ&hl=zh-CN&oi=ao)] and [Prof. Tongxin Li](https://tongxin.me).
+My research fields are Artificial intelligence (AI) and Machine Learning (ML). And my Phd research topics are Graph Learning and Smart Grid. My Phd supervisors are [Prof. Chris Ding](https://sds.cuhk.edu.cn/en/teacher/197) [[Google Scholar](https://scholar.google.com/citations?user=q7FfnjgAAAAJ&hl=zh-CN&oi=ao)] and [Prof. Tongxin Li](https://tongxin.me).
 
 <!-- I am available and seeking part-time research internship position (Prefer Hongkong/Shenzhen intern opportunity and I have IANG Visa now).  -->
 Welcome to more exchanges and If you are interested in my research works, you can contact me via email: [**xudongwang@link.cuhk.edu.cn**].
