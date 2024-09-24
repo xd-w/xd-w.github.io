@@ -35,6 +35,11 @@ Publication
 
     - The 13th ACM SIGEnergy International Conference on Future Energy Systems (ACM e-Energy 2022)
 
+
+- **Paper:** Towards Real-world Deployment of NILM Systems: Challenges and Practices
+    - Junyu Xue, Yu Zhang, ***Xudong Wang***, Yi Wang, Guoming Tang
+    - The 14th IEEE International Conference on Sustainable Computing and Communications. (IEEE SustainCom 2024)
+
 - **Paper:** More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring
 
     - [https://www.computer.org/csdl/proceedings-article/ithings-greencom-cpscom-smartdata-cybermatics/2022/541700a292/1Hcn1zhTUic](https://www.computer.org/csdl/proceedings-article/ithings-greencom-cpscom-smartdata-cybermatics/2022/541700a292/1Hcn1zhTUic).
