@@ -29,7 +29,7 @@ Publication
 
 - **Paper:** EVSense: a robust and scalable approach to non-intrusive EV charging detection 
 
-    - [https://dl.acm.org/doi/10.1145/3538637.3538860](https://dl.acm.org/doi/10.1145/3538637.3538860). 
+    - [https://dl.acm.org/doi/10.1145/3538637.3538860](https://dl.acm.org/doi/10.1145/3538637.3538860)
 
     - ***Xudong Wang**, Guoming Tang, Yi Wang, Srinivasan Keshav, Yu Zhang*
 
@@ -37,6 +37,7 @@ Publication
 
 
 - **Paper:** Towards Real-world Deployment of NILM Systems: Challenges and Practices
+    - [https://arxiv.org/abs/2409.14821](https://arxiv.org/abs/2409.14821)
     - Junyu Xue, Yu Zhang, ***Xudong Wang***, Yi Wang, Guoming Tang
     - The 14th IEEE International Conference on Sustainable Computing and Communications. (IEEE SustainCom 2024)
 
