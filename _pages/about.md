@@ -39,7 +39,7 @@ Publication
 - **Paper:** Towards Real-world Deployment of NILM Systems: Challenges and Practices
     - [https://arxiv.org/abs/2409.14821](https://arxiv.org/abs/2409.14821)
     - Junyu Xue, Yu Zhang, ***Xudong Wang***, Yi Wang, Guoming Tang
-    - The 14th IEEE International Conference on Sustainable Computing and Communications. (IEEE SustainCom 2024)
+    - The 14th IEEE International Conference on Sustainable Computing and Communications. (IEEE Best Paper Award, IEEE SustainCom 2024)
 
 - **Paper:** More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring
 
