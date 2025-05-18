@@ -19,6 +19,12 @@ Welcome to more exchanges and If you are interested in my research works, you ca
 
 Publication
 =====
+- **Paper:** Explainable Graph Representation Learning via Graph Pattern Analysis
+  
+    - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
+
+    - The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
+
 - **Paper:** Learning Graph Representation via Graph Entropy Maximization
 
     - [https://icml.cc/virtual/2024/poster/32687](https://icml.cc/virtual/2024/poster/32687)
