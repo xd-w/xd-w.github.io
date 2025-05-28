@@ -24,7 +24,11 @@ Publication
     - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
 
     - The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
+- **Paper:** Learnable Kernel Density Estimation for Graphs
+    - [https://arxiv.org/abs/2505.21285](https://arxiv.org/abs/2505.21285)
+    - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
 
+    - arXiv Preprint. 
 - **Paper:** Learning Graph Representation via Graph Entropy Maximization
 
     - [https://icml.cc/virtual/2024/poster/32687](https://icml.cc/virtual/2024/poster/32687)
