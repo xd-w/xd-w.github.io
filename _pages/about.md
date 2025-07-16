@@ -45,6 +45,13 @@ Publication
 
     - The 13th ACM SIGEnergy International Conference on Future Energy Systems (ACM e-Energy 2022)
 
+- **Paper:** Open In-Context Energy Management Platform
+
+    - [https://dl.acm.org/doi/full/10.1145/3679240.3734678](https://dl.acm.org/doi/full/10.1145/3679240.3734678)
+
+    - *Yikai Lu, Tinko Sebastian Bartels, Ruixiang Wu, Fanzeng Xia, **Xudong Wang**, Yifei Wu, Haoxiang Yang, Tongxin Li*
+
+    - The 16th ACM SIGEnergy International Conference on Future Energy Systems (ACM e-Energy 2025)
 
 - **Paper:** Towards Real-world Deployment of NILM Systems: Challenges and Practices
     - [https://arxiv.org/abs/2409.14821](https://arxiv.org/abs/2409.14821)
