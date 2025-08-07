@@ -24,6 +24,16 @@ Publication
     - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
 
     - The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
+  
+
+- **Paper:** Adaptive Riemannian Graph Neural Networks
+
+    - [https://arxiv.org/abs/2508.02600](https://arxiv.org/abs/2508.02600)
+
+    - ***Xudong Wang**, Tongxin Li, Chris Ding, Jicong Fan*
+
+    - arXiv Preprint.
+
 - **Paper:** Learnable Kernel Density Estimation for Graphs
     - [https://arxiv.org/abs/2505.21285](https://arxiv.org/abs/2505.21285)
     - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
