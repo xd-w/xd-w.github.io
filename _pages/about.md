@@ -20,7 +20,7 @@ Welcome to more exchanges and If you are interested in my research works, you ca
 Publication
 =====
 - **Paper:** Explainable Graph Representation Learning via Graph Pattern Analysis
-  
+    - [https://www.ijcai.org/proceedings/2025/0381.pdf](https://www.ijcai.org/proceedings/2025/0381.pdf)
     - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
 
     - The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
@@ -32,13 +32,20 @@ Publication
 
     - ***Xudong Wang**, Tongxin Li, Chris Ding, Jicong Fan*
 
-    - arXiv Preprint.
-
 - **Paper:** Learnable Kernel Density Estimation for Graphs
     - [https://arxiv.org/abs/2505.21285](https://arxiv.org/abs/2505.21285)
     - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
 
     - arXiv Preprint. 
+
+- **Paper:** DualNILM: Energy Injection Identification Enabled Disaggregation with Deep Multi-Task Learning
+    - [https://arxiv.org/abs/2508.14600](https://arxiv.org/abs/2508.14600)
+    - ***Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding*
+    - arXiv Preprint.
+- **Paper:** Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring
+    - [https://arxiv.org/pdf/2505.06330](https://arxiv.org/abs/2505.06330)  
+    - *Junyu Xue, **Xudong Wang**, Xiaoling He, Shicheng Liu, Yi Wang, Guoming Tang*
+    - The 12th ACM International Conference on Systems for Energy-Efficient Buildings, Cities, and Transportation (ACM BuildSys 2025)
 - **Paper:** Learning Graph Representation via Graph Entropy Maximization
 
     - [https://icml.cc/virtual/2024/poster/32687](https://icml.cc/virtual/2024/poster/32687)
@@ -63,6 +70,10 @@ Publication
 
     - The 16th ACM SIGEnergy International Conference on Future Energy Systems (ACM e-Energy 2025)
 
+- **Paper:** ZSMerge: Zero-Shot KV Cache Compression for Memory-Efficient Long-Context LLMs
+    - [https://arxiv.org/abs/2503.10714](https://arxiv.org/abs/2503.10714)
+    - *Xin Liu, **Xudong Wang**, Pei Liu, Guoming Tang*
+    - arXiv Preprint. 
 - **Paper:** Towards Real-world Deployment of NILM Systems: Challenges and Practices
     - [https://arxiv.org/abs/2409.14821](https://arxiv.org/abs/2409.14821)
     - Junyu Xue, Yu Zhang, ***Xudong Wang***, Yi Wang, Guoming Tang
