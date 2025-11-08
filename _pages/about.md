@@ -19,12 +19,6 @@ Welcome to more exchanges and If you are interested in my research works, you ca
 
 Publication
 =====
-- **Paper:** Explainable Graph Representation Learning via Graph Pattern Analysis
-    - [https://www.ijcai.org/proceedings/2025/0381.pdf](https://www.ijcai.org/proceedings/2025/0381.pdf)
-    - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
-
-    - The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
-  
 
 - **Paper:** Adaptive Riemannian Graph Neural Networks
 
@@ -32,6 +26,13 @@ Publication
 
     - ***Xudong Wang**, Tongxin Li, Chris Ding, Jicong Fan*
 
+    - The 40th Annual AAAI Conference on Artificial Intelligence (AAAI 2026)
+- **Paper:** Explainable Graph Representation Learning via Graph Pattern Analysis
+    - [https://www.ijcai.org/proceedings/2025/0381.pdf](https://www.ijcai.org/proceedings/2025/0381.pdf)
+    - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
+
+    - The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
+  
 - **Paper:** Learnable Kernel Density Estimation for Graphs
     - [https://arxiv.org/abs/2505.21285](https://arxiv.org/abs/2505.21285)
     - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
