@@ -104,6 +104,9 @@ Publication
 
 Talk
 =====
+
+- Presentation in International Joint Conference on Artificial Intelligence (IJCAI) 2025
+    - Slides: [link](https://xd-w.github.io/files/IJCAI25-5835-Slides.pdf), Poster: [link](https://xd-w.github.io/files/IJCAI25-5835-Poster.pdf)
 - Presentation in International Conference ACM e-Energy 2022
     - Recording: [https://youtu.be/sBAtrK5vS9U](https://youtu.be/sBAtrK5vS9U).
     - Slides: [link](https://cuhko365-my.sharepoint.com/:b:/g/personal/220041020_link_cuhk_edu_cn/EeQL2SnBfjVFiSVy2J_Qhb8BK-0OFAsCoBeM207anHFzkA?e=LirUTw)
