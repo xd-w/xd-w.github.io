@@ -31,17 +31,18 @@ Publication
     - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
 
     - The 34th International Joint Conference on Artificial Intelligence (IJCAI 2025)
-  
+
+- **Paper:** Energy Injection Identification Enabled Disaggregation with Deep Multi-Task Learning
+    - [https://arxiv.org/abs/2508.14600](https://arxiv.org/abs/2508.14600)
+    - ***Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding*
+    - Accepted to The 17th International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2026)
+
 - **Paper:** Learnable Kernel Density Estimation for Graphs
     - [https://arxiv.org/abs/2505.21285](https://arxiv.org/abs/2505.21285)
     - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
 
     - arXiv Preprint. 
 
-- **Paper:** DualNILM: Energy Injection Identification Enabled Disaggregation with Deep Multi-Task Learning
-    - [https://arxiv.org/abs/2508.14600](https://arxiv.org/abs/2508.14600)
-    - ***Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding*
-    - arXiv Preprint.
 - **Paper:** Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring
     - [https://arxiv.org/pdf/2505.06330](https://arxiv.org/abs/2505.06330)  
     - *Junyu Xue, **Xudong Wang**, Xiaoling He, Shicheng Liu, Yi Wang, Guoming Tang*
