@@ -21,7 +21,7 @@ Publication
 
 - **Paper:** Adaptive Riemannian Graph Neural Networks
 
-    - [https://arxiv.org/abs/2508.02600](https://arxiv.org/abs/2508.02600)
+    - [https://ojs.aaai.org/index.php/AAAI/article/view/39869](https://ojs.aaai.org/index.php/AAAI/article/view/39869)
 
     - ***Xudong Wang**, Tongxin Li, Chris Ding, Jicong Fan*
 
