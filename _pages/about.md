@@ -19,6 +19,11 @@ Welcome to more exchanges and If you are interested in my research works, you ca
 Publication
 =====
 
+- **Paper:** Learnable Kernel Density Estimation for Graphs
+    - [https://arxiv.org/abs/2505.21285](https://arxiv.org/abs/2505.21285)
+    - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
+    - Accepted to The 43th International Conference on Machine Learning (ICML 2026)
+  
 - **Paper:** Adaptive Riemannian Graph Neural Networks
 
     - [https://ojs.aaai.org/index.php/AAAI/article/view/39869](https://ojs.aaai.org/index.php/AAAI/article/view/39869)
@@ -37,11 +42,6 @@ Publication
     - ***Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding*
     - Accepted to The 17th International Conference on Future and Sustainable Energy Systems (ACM e-Energy 2026)
 
-- **Paper:** Learnable Kernel Density Estimation for Graphs
-    - [https://arxiv.org/abs/2505.21285](https://arxiv.org/abs/2505.21285)
-    - ***Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan*
-
-    - arXiv Preprint. 
 
 - **Paper:** Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring
     - [https://arxiv.org/pdf/2505.06330](https://arxiv.org/abs/2505.06330)  
