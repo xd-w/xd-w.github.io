@@ -8,6 +8,10 @@ main:
     title_zh: "研究"
     url: /#research
     url_zh: /#research-zh
+  - title: "CV"
+    title_zh: "简历"
+    url: /cv/
+    url_zh: /cv/
   - title: "Publications"
     title_zh: "论文"
     url: /publications/
@@ -20,10 +24,6 @@ main:
     title_zh: "教学"
     url: /teaching/
     url_zh: /teaching/
-  - title: "CV"
-    title_zh: "简历"
-    url: /cv/
-    url_zh: /cv/
   - title: "Blog"
     title_zh: "博客"
     url: /blog/
