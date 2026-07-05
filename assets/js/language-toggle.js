@@ -35,12 +35,23 @@
     }
   }
 
+  function getSystemTheme() {
+    try {
+      if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        return "dark";
+      }
+    } catch (error) {
+      return "light";
+    }
+    return "light";
+  }
+
   function getPreferredTheme() {
     var storedTheme = getStoredTheme();
     if (storedTheme) {
       return storedTheme;
     }
-    return "light";
+    return getSystemTheme();
   }
 
   function storeLanguage(lang) {
@@ -227,11 +238,37 @@
     return true;
   }
 
+  function bindSystemThemeSync() {
+    var query = null;
+    try {
+      if (!window.matchMedia) {
+        return;
+      }
+      query = window.matchMedia("(prefers-color-scheme: dark)");
+    } catch (error) {
+      return;
+    }
+
+    var handleSystemThemeChange = function(event) {
+      if (getStoredTheme()) {
+        return;
+      }
+      setTheme(event.matches ? "dark" : "light", false);
+    };
+
+    if (query.addEventListener) {
+      query.addEventListener("change", handleSystemThemeChange);
+    } else if (query.addListener) {
+      query.addListener(handleSystemThemeChange);
+    }
+  }
+
   document.addEventListener("DOMContentLoaded", function() {
     var currentLang = normalizeLanguage(document.documentElement.getAttribute("data-lang") || getStoredLanguage());
     var currentTheme = normalizeTheme(document.documentElement.getAttribute("data-theme") || getPreferredTheme());
     setLanguage(currentLang, false);
     setTheme(currentTheme, false);
+    bindSystemThemeSync();
     expandHashTarget(true);
 
     document.addEventListener("click", function(event) {

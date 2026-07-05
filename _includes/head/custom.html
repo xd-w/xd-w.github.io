@@ -6,6 +6,16 @@
   (function() {
     var lang = "en";
     var theme = "light";
+    function getSystemTheme() {
+      try {
+        if (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches) {
+          return "dark";
+        }
+      } catch (error) {
+        return "light";
+      }
+      return "light";
+    }
     try {
       lang = window.localStorage.getItem("xudong-site-language-v3") === "zh" ? "zh" : "en";
     } catch (error) {
@@ -15,9 +25,11 @@
       var storedTheme = window.localStorage.getItem("xudong-site-theme-v3");
       if (storedTheme === "dark" || storedTheme === "light") {
         theme = storedTheme;
+      } else {
+        theme = getSystemTheme();
       }
     } catch (error) {
-      theme = "light";
+      theme = getSystemTheme();
     }
     document.documentElement.setAttribute("data-lang", lang);
     document.documentElement.setAttribute("lang", lang === "zh" ? "zh-Hans" : "en");

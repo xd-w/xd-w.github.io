@@ -18,7 +18,7 @@ redirect_from:
         I received my PhD in Computer Science from the <a href="https://sds.cuhk.edu.cn/">School of Data Science</a>, <span class="nowrap">CUHK-Shenzhen</span>. My research focuses on artificial intelligence and machine learning, especially graph learning, smart grid intelligence, LLMs, multimodal learning, and energy analytics. My <span class="nowrap">CUHK-Shenzhen</span> profile is available <a href="https://sds.cuhk.edu.cn/node/728">here</a>, and I can be reached at <a href="mailto:xudongwang@link.cuhk.edu.cn">xudongwang@link.cuhk.edu.cn</a>.
       </p>
       <p>
-        My PhD research was primarily supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/197">Prof. Chris Ding (丁宏强)</a> and co-supervised by <a href="https://tongxin.me">Prof. Tongxin Li (李彤欣)</a>. During my PhD, I also worked closely with <a href="https://jicongfan.github.io/">Prof. Jicong Fan (樊继聪)</a> and <a href="https://guomingtang.github.io/">Prof. Guoming Tang (唐国明)</a>, and I am grateful for their research guidance and collaboration.
+        My PhD research was primarily supervised by <a href="https://scholar.google.com/citations?user=q7FfnjgAAAAJ">Prof. Chris Ding (丁宏强)</a> and co-supervised by <a href="https://tongxin.me">Prof. Tongxin Li (李彤欣)</a>. During my PhD, I also worked closely with <a href="https://jicongfan.github.io/">Prof. Jicong Fan (樊继聪)</a> and <a href="https://guomingtang.github.io/">Prof. Guoming Tang (唐国明)</a>, and I am grateful for their research guidance and collaboration.
       </p>
       <p>
         My work has appeared in leading machine learning and energy-system venues, including ICML, AAAI, IJCAI, ACM e-Energy, and ACM BuildSys, with presentations across these communities. I received the IEEE SustainCom 2024 Best Paper Award and the CUHK-Shenzhen Presidential Award for Outstanding Graduate Students. I regularly serve as a reviewer for leading AI and smart grid conferences and journals, and served as a Session Chair at PAKDD 2026. My current interests include LLM-enabled foundation models and multi-agent systems for graph learning and smart grid intelligence.
@@ -94,7 +94,7 @@ redirect_from:
         我是香港中文大学（深圳）<a href="https://sds.cuhk.edu.cn/">数据科学学院</a>计算机科学博士。我的研究方向是人工智能与机器学习，重点关注图学习、智能电网、大语言模型、多模态学习，以及面向能源系统的数据分析方法。我在香港中文大学（深圳）的个人主页见<a href="https://sds.cuhk.edu.cn/node/728">这里</a>，也欢迎通过 <a href="mailto:xudongwang@link.cuhk.edu.cn">xudongwang@link.cuhk.edu.cn</a> 联系我。
       </p>
       <p>
-        我的博士研究主要由<a href="https://sds.cuhk.edu.cn/en/teacher/197">丁宏强教授（Prof. Chris Ding）</a>指导，并由<a href="https://tongxin.me">李彤欣教授（Prof. Tongxin Li）</a>联合指导；硕士阶段也师从丁宏强教授。博士期间，我还与<a href="https://jicongfan.github.io/">樊继聪教授</a>和<a href="https://guomingtang.github.io/">唐国明教授</a>紧密合作，并有幸得到他们在科研上的指导与帮助。
+        我的博士研究主要由<a href="https://scholar.google.com/citations?user=q7FfnjgAAAAJ">丁宏强教授（Prof. Chris Ding）</a>指导，并由<a href="https://tongxin.me">李彤欣教授（Prof. Tongxin Li）</a>联合指导；硕士阶段也师从丁宏强教授。博士期间，我还与<a href="https://jicongfan.github.io/">樊继聪教授</a>和<a href="https://guomingtang.github.io/">唐国明教授</a>紧密合作，并有幸得到他们在科研上的指导与帮助。
       </p>
       <p>
         我的工作发表于 ICML、AAAI、IJCAI 等机器学习与人工智能领域顶级会议，以及 ACM e-Energy、ACM BuildSys 等智能能源系统会议，并在相关会议进行报告与展示；曾获 IEEE SustainCom 2024 Best Paper Award、香港中文大学（深圳）校长杰出研究生奖等荣誉。我长期担任人工智能领域国际会议和期刊审稿人，并曾担任 PAKDD 2026 Session Chair。目前，我也关注结合 LLMs 的图学习与能源系统基础模型、多智能体方法等方向。

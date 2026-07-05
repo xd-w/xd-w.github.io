@@ -13,7 +13,7 @@ author_profile: true
     <p lang="zh-Hans"><strong>精神信条：</strong>爱，真诚，勇气。</p>
   </section>
 
-  <p>As time has quietly passed, the completion of this doctoral dissertation also marks the end of my long journey as a student. At this moment, I would like to express my deepest gratitude to my Ph.D. supervisors, <a href="https://sds.cuhk.edu.cn/en/teacher/197">Prof. Chris Ding</a> and <a href="https://tongxin.me">Prof. Tongxin Li</a>, for their invaluable guidance, unwavering support, and insightful feedback throughout my research journey. Their mentorship has been instrumental in shaping both this thesis and my growth as a researcher.</p>
+  <p>As time has quietly passed, the completion of this doctoral dissertation also marks the end of my long journey as a student. At this moment, I would like to express my deepest gratitude to my Ph.D. supervisors, <a href="https://scholar.google.com/citations?user=q7FfnjgAAAAJ">Prof. Chris Ding</a> and <a href="https://tongxin.me">Prof. Tongxin Li</a>, for their invaluable guidance, unwavering support, and insightful feedback throughout my research journey. Their mentorship has been instrumental in shaping both this thesis and my growth as a researcher.</p>
 
   <p>Even now, I still vividly recall my first discussion with Prof. Ding on robust principal component analysis, as well as my first meeting with Prof. Li in Daoyuan Building. It has been a great honor to pursue my doctoral studies under their guidance. Prof. Ding's rigor and dedication to research will continue to influence me throughout my life, and I am equally grateful to Prof. Li for his guidance and encouragement during my Ph.D. journey.</p>
 
