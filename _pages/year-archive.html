@@ -1,19 +1,22 @@
 ---
 layout: archive
-permalink: /year-archive/
-title: "Blog posts"
+permalink: /blog/
+title: "Blog"
 author_profile: true
 redirect_from:
   - /wordpress/blog-posts/
+  - /year-archive/
 ---
 
 {% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+
+<div class="blog-card-list">
+  <article class="blog-card">
+    <a class="blog-card__link" href="/blog/acknowledgements-at-the-close-of-my-phd-journey/">
+      <p class="blog-card__meta">Published: Feb 13, 2026</p>
+      <h2>Acknowledgements at the Close of My Ph.D. Journey</h2>
+      <p class="blog-card__excerpt">A note of gratitude to my advisors, dissertation committee, family, and friends, guided by a small personal credo: love, sincerity, and courage.</p>
+      <span class="blog-card__action">Read more</span>
+    </a>
+  </article>
+</div>

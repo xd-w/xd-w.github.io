@@ -2,6 +2,29 @@
 
 <!-- start custom head snippets -->
 
+<script>
+  (function() {
+    var lang = "en";
+    var theme = "light";
+    try {
+      lang = window.localStorage.getItem("xudong-site-language-v3") === "zh" ? "zh" : "en";
+    } catch (error) {
+      lang = "en";
+    }
+    try {
+      var storedTheme = window.localStorage.getItem("xudong-site-theme-v3");
+      if (storedTheme === "dark" || storedTheme === "light") {
+        theme = storedTheme;
+      }
+    } catch (error) {
+      theme = "light";
+    }
+    document.documentElement.setAttribute("data-lang", lang);
+    document.documentElement.setAttribute("lang", lang === "zh" ? "zh-Hans" : "en");
+    document.documentElement.setAttribute("data-theme", theme);
+  })();
+</script>
+
 <link rel="apple-touch-icon" sizes="57x57" href="{{ base_path }}/images/apple-touch-icon-57x57.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="60x60" href="{{ base_path }}/images/apple-touch-icon-60x60.png?v=M44lzPylqQ">
 <link rel="apple-touch-icon" sizes="72x72" href="{{ base_path }}/images/apple-touch-icon-72x72.png?v=M44lzPylqQ">
@@ -21,7 +44,7 @@
 <meta name="msapplication-TileColor" content="#000000">
 <meta name="msapplication-TileImage" content="{{ base_path }}/images/mstile-144x144.png?v=M44lzPylqQ">
 <meta name="msapplication-config" content="{{ base_path }}/images/browserconfig.xml?v=M44lzPylqQ">
-<meta name="theme-color" content="#ffffff">
+<meta name="theme-color" content="#ffffff" data-theme-color>
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
 <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>

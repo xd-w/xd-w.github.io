@@ -25,8 +25,11 @@
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
+      {% if author.department %}
+        <li class="author__affiliation"><i class="fas fa-fw fa-building" aria-hidden="true"></i><span>{{ author.department }}</span></li>
+      {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li class="author__affiliation"><i class="fas fa-fw fa-university" aria-hidden="true"></i><span class="nowrap">{{ author.employer }}</span></li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
@@ -66,6 +69,9 @@
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      {% endif %}
+      {% if author.rednote %}
+        <li><a href="{{ author.rednote }}"><i class="fas fa-fw fa-book-open" aria-hidden="true"></i> RedNote</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>

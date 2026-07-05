@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xudong Wang"
+title                    : "Xudong Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Xudong Wang"
-description              : &description "personal description"
+description              : &description "Xudong Wang's personal academic website. Research in graph learning, machine learning, LLMs, and smart grid intelligence."
 url                      : https://xd-w.github.io # the base hostname & protocol
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xd-w/xd-w.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xudong Wang (王旭东)"
   avatar           : "profile.png"
-  bio              : "PhD Candidate"
+  bio              : "PhD in Computer Science"
   location         : "Shenzhen, China"
-  employer         : "School of Data Science"
+  department       : "School of Data Science"
   employer         : "CUHK-Shenzhen"
 #   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -98,6 +98,7 @@ author:
 #   facebook         :
 #   foursquare       :
   github           : "MathAdventurer"
+  rednote          : "https://xhslink.com/m/1goxN8mGNc0"
 #   google_plus      :
 #   keybase          :
 #   instagram        :
