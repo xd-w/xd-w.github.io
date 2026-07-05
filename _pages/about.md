@@ -48,7 +48,7 @@ redirect_from:
           </article>
           <article class="news-item">
             <time datetime="2026-06-24">2026.06.24</time>
-            <p>⚡ Our ACM e-Energy 2026 paper, <em>Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning</em>, was presented in Banff, Canada. Due to visa constraints, the presentation was delivered by Prof. S. Keshav.</p>
+            <p>⚡ Our ACM e-Energy 2026 paper, <a href="https://dl.acm.org/doi/full/10.1145/3744255.3798113"><em>Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning</em></a>, was presented in Banff, Canada. Due to visa constraints, the presentation was delivered by Prof. S. Keshav.</p>
           </article>
           <article class="news-item">
             <time datetime="2026-06-09">2026.06.09</time>
@@ -124,7 +124,7 @@ redirect_from:
           </article>
           <article class="news-item">
             <time datetime="2026-06-24">2026.06.24</time>
-            <p>⚡ 我们的 ACM e-Energy 2026 论文 <em>Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning</em> 已在加拿大 Banff 展示。由于签证原因，本次报告由 Prof. S. Keshav 代为 Presentation。</p>
+            <p>⚡ 我们的 ACM e-Energy 2026 论文 <a href="https://dl.acm.org/doi/full/10.1145/3744255.3798113"><em>Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning</em></a> 已在加拿大 Banff 展示。由于签证原因，本次报告由 Prof. S. Keshav 代为 Presentation。</p>
           </article>
           <article class="news-item">
             <time datetime="2026-06-09">2026.06.09</time>

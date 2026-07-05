@@ -33,9 +33,9 @@ Experience
 
 Publications
 ======
-* **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](https://arxiv.org/abs/2505.21285). ICML 2026.
+* **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](https://arxiv.org/abs/2505.21285). The 43rd International Conference on Machine Learning.
 * **Xudong Wang**, Tongxin Li, Chris Ding, Jicong Fan. [Adaptive Riemannian Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/39869). AAAI 2026.
-* **Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding. [Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning](https://arxiv.org/abs/2508.14600). ACM e-Energy 2026.
+* **Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding. [Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning](https://dl.acm.org/doi/full/10.1145/3744255.3798113). The 17th International Conference on Future and Sustainable Energy Systems.
 * Junyu Xue, **Xudong Wang**, Xiaoling He, Shicheng Liu, Yi Wang, Guoming Tang. [Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring](https://arxiv.org/abs/2505.06330). ACM BuildSys 2025.
 * **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Explainable Graph Representation Learning via Graph Pattern Analysis](https://www.ijcai.org/proceedings/2025/0381.pdf). IJCAI 2025.
 * Yikai Lu, Tinko Sebastian Bartels, Ruixiang Wu, Fanzeng Xia, **Xudong Wang**, Yifei Wu, Haoxiang Yang, Tongxin Li. [Open In-Context Energy Management Platform](https://dl.acm.org/doi/full/10.1145/3679240.3734678). ACM e-Energy 2025.
@@ -116,9 +116,9 @@ Awards
 
 科研成果
 ======
-* **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](https://arxiv.org/abs/2505.21285). ICML 2026.
+* **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](https://arxiv.org/abs/2505.21285). The 43rd International Conference on Machine Learning.
 * **Xudong Wang**, Tongxin Li, Chris Ding, Jicong Fan. [Adaptive Riemannian Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/39869). AAAI 2026.
-* **Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding. [Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning](https://arxiv.org/abs/2508.14600). ACM e-Energy 2026.
+* **Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding. [Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning](https://dl.acm.org/doi/full/10.1145/3744255.3798113). The 17th International Conference on Future and Sustainable Energy Systems.
 * Junyu Xue, **Xudong Wang**, Xiaoling He, Shicheng Liu, Yi Wang, Guoming Tang. [Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring](https://arxiv.org/abs/2505.06330). ACM BuildSys 2025.
 * **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Explainable Graph Representation Learning via Graph Pattern Analysis](https://www.ijcai.org/proceedings/2025/0381.pdf). IJCAI 2025.
 * Yikai Lu, Tinko Sebastian Bartels, Ruixiang Wu, Fanzeng Xia, **Xudong Wang**, Yifei Wu, Haoxiang Yang, Tongxin Li. [Open In-Context Energy Management Platform](https://dl.acm.org/doi/full/10.1145/3679240.3734678). ACM e-Energy 2025.

@@ -25,7 +25,7 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my
     <p class="academic-list__venue">ICML 2026</p>
     <h2><a href="https://arxiv.org/abs/2505.21285">Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection</a></h2>
     <p><strong>Xudong Wang</strong>, Ziheng Sun, Chris Ding, Jicong Fan.</p>
-    <p>Accepted to the 43rd International Conference on Machine Learning.</p>
+    <p>The 43rd International Conference on Machine Learning.</p>
   </article>
 
   <article>
@@ -37,9 +37,9 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my
 
   <article>
     <p class="academic-list__venue">ACM e-Energy 2026</p>
-    <h2><a href="https://arxiv.org/abs/2508.14600">Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning</a></h2>
+    <h2><a href="https://dl.acm.org/doi/full/10.1145/3744255.3798113">Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning</a></h2>
     <p><strong>Xudong Wang</strong>, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding.</p>
-    <p>Accepted to the 17th International Conference on Future and Sustainable Energy Systems.</p>
+    <p>The 17th International Conference on Future and Sustainable Energy Systems.</p>
   </article>
 
   <article>
