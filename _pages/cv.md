@@ -44,7 +44,7 @@ Publications
 * Ziheng Sun, **Xudong Wang**, Chris Ding, Jicong Fan. [Learning Graph Representation via Graph Entropy Maximization](https://icml.cc/virtual/2024/poster/32687). ICML 2024.
 * Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, Hong Xu, **Xudong Wang**. [More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring](https://www.computer.org/csdl/proceedings-article/ithings-greencom-cpscom-smartdata-cybermatics/2022/541700a292/1Hcn1zhTUic). IEEE CPSCom 2022.
 * **Xudong Wang**, Guoming Tang, Yi Wang, Srinivasan Keshav, Yu Zhang. [EVSense: a robust and scalable approach to non-intrusive EV charging detection](https://dl.acm.org/doi/10.1145/3538637.3538860). ACM e-Energy 2022.
-* Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, **Xudong Wang**, Jiadong Lou. [FedNILM: Applying Federated Learning to NILM Applications at the Edge](https://arxiv.org/abs/2106.07751). arXiv preprint.
+* Ruixiang Wu, **Xudong Wang**, Tongxin Li. [Behavior-Aware Efficient Detection of Malicious EVs in V2G Systems](https://arxiv.org/abs/2411.06113). arXiv preprint arXiv:2411.06113, 2024.
 * Patent: 一种电动汽车充电监测方法及系统. Inventors: Yangjing Wu; **Xudong Wang**. Patent no. CN202210620528, ICPC H02J3/00.
 
 Teaching
@@ -127,7 +127,7 @@ Awards
 * Ziheng Sun, **Xudong Wang**, Chris Ding, Jicong Fan. [Learning Graph Representation via Graph Entropy Maximization](https://icml.cc/virtual/2024/poster/32687). ICML 2024.
 * Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, Hong Xu, **Xudong Wang**. [More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring](https://www.computer.org/csdl/proceedings-article/ithings-greencom-cpscom-smartdata-cybermatics/2022/541700a292/1Hcn1zhTUic). IEEE CPSCom 2022.
 * **Xudong Wang**, Guoming Tang, Yi Wang, Srinivasan Keshav, Yu Zhang. [EVSense: a robust and scalable approach to non-intrusive EV charging detection](https://dl.acm.org/doi/10.1145/3538637.3538860). ACM e-Energy 2022.
-* Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, **Xudong Wang**, Jiadong Lou. [FedNILM: Applying Federated Learning to NILM Applications at the Edge](https://arxiv.org/abs/2106.07751). arXiv preprint.
+* Ruixiang Wu, **Xudong Wang**, Tongxin Li. [Behavior-Aware Efficient Detection of Malicious EVs in V2G Systems](https://arxiv.org/abs/2411.06113). arXiv preprint arXiv:2411.06113, 2024.
 * 专利：一种电动汽车充电监测方法及系统。发明人：武洋静、**王旭东**；专利号 CN202210620528。
 
 教学经历

@@ -98,9 +98,10 @@ You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my
   </article>
 
   <article>
-    <p class="academic-list__venue">arXiv preprint</p>
-    <h2><a href="https://arxiv.org/abs/2106.07751">FedNILM: Applying Federated Learning to NILM Applications at the Edge</a></h2>
-    <p>Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, <strong>Xudong Wang</strong>, Jiadong Lou.</p>
+    <p class="academic-list__venue">arXiv preprint arXiv:2411.06113</p>
+    <h2><a href="https://arxiv.org/abs/2411.06113">Behavior-Aware Efficient Detection of Malicious EVs in V2G Systems</a></h2>
+    <p>Ruixiang Wu, <strong>Xudong Wang</strong>, Tongxin Li.</p>
+    <p>Published Nov. 9, 2024.</p>
   </article>
 
   <article>
