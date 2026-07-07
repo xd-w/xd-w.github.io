@@ -35,16 +35,16 @@ Publications
 ======
 * **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](https://arxiv.org/abs/2505.21285). The 43rd International Conference on Machine Learning.
 * **Xudong Wang**, Tongxin Li, Chris Ding, Jicong Fan. [Adaptive Riemannian Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/39869). AAAI 2026.
-* **Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding. [Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning](https://dl.acm.org/doi/full/10.1145/3744255.3798113). The 17th International Conference on Future and Sustainable Energy Systems.
-* Junyu Xue, **Xudong Wang**, Xiaoling He, Shicheng Liu, Yi Wang, Guoming Tang. [Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring](https://arxiv.org/abs/2505.06330). ACM BuildSys 2025.
 * **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Explainable Graph Representation Learning via Graph Pattern Analysis](https://www.ijcai.org/proceedings/2025/0381.pdf). IJCAI 2025.
-* Yikai Lu, Tinko Sebastian Bartels, Ruixiang Wu, Fanzeng Xia, **Xudong Wang**, Yifei Wu, Haoxiang Yang, Tongxin Li. [Open In-Context Energy Management Platform](https://dl.acm.org/doi/full/10.1145/3679240.3734678). ACM e-Energy 2025.
-* Xin Liu, **Xudong Wang**, Pei Liu, Guoming Tang. [ZSMerge: Zero-Shot KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714). arXiv preprint.
-* Junyu Xue, Yu Zhang, **Xudong Wang**, Yi Wang, Guoming Tang. [Towards Real-world Deployment of NILM Systems: Challenges and Practices](https://arxiv.org/abs/2409.14821). IEEE SustainCom 2024, IEEE Best Paper Award.
-* Ziheng Sun, **Xudong Wang**, Chris Ding, Jicong Fan. [Learning Graph Representation via Graph Entropy Maximization](https://icml.cc/virtual/2024/poster/32687). ICML 2024.
-* Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, Hong Xu, **Xudong Wang**. [More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring](https://www.computer.org/csdl/proceedings-article/ithings-greencom-cpscom-smartdata-cybermatics/2022/541700a292/1Hcn1zhTUic). IEEE CPSCom 2022.
+* **Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding. [Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning](https://dl.acm.org/doi/full/10.1145/3744255.3798113). The 17th International Conference on Future and Sustainable Energy Systems.
 * **Xudong Wang**, Guoming Tang, Yi Wang, Srinivasan Keshav, Yu Zhang. [EVSense: a robust and scalable approach to non-intrusive EV charging detection](https://dl.acm.org/doi/10.1145/3538637.3538860). ACM e-Energy 2022.
+* Ziheng Sun, **Xudong Wang**, Chris Ding, Jicong Fan. [Learning Graph Representation via Graph Entropy Maximization](https://icml.cc/virtual/2024/poster/32687). ICML 2024.
+* Junyu Xue, **Xudong Wang**, Xiaoling He, Shicheng Liu, Yi Wang, Guoming Tang. [Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring](https://arxiv.org/abs/2505.06330). ACM BuildSys 2025.
+* Xin Liu, **Xudong Wang**, Pei Liu, Guoming Tang. [ZSMerge: Zero-Shot KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714). arXiv preprint.
+* Yikai Lu, Tinko Sebastian Bartels, Ruixiang Wu, Fanzeng Xia, **Xudong Wang**, Yifei Wu, Haoxiang Yang, Tongxin Li. [Open In-Context Energy Management Platform](https://dl.acm.org/doi/full/10.1145/3679240.3734678). ACM e-Energy 2025.
+* Junyu Xue, Yu Zhang, **Xudong Wang**, Yi Wang, Guoming Tang. [Towards Real-world Deployment of NILM Systems: Challenges and Practices](https://arxiv.org/abs/2409.14821). IEEE SustainCom 2024, IEEE Best Paper Award.
 * Ruixiang Wu, **Xudong Wang**, Tongxin Li. [Behavior-Aware Efficient Detection of Malicious EVs in V2G Systems](https://arxiv.org/abs/2411.06113). arXiv preprint arXiv:2411.06113, 2024.
+* Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, Hong Xu, **Xudong Wang**. [More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring](https://www.computer.org/csdl/proceedings-article/ithings-greencom-cpscom-smartdata-cybermatics/2022/541700a292/1Hcn1zhTUic). IEEE CPSCom 2022.
 * Patent: 一种电动汽车充电监测方法及系统. Inventors: Yangjing Wu; **Xudong Wang**. Patent no. CN202210620528, ICPC H02J3/00.
 
 Teaching
@@ -118,16 +118,16 @@ Awards
 ======
 * **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection](https://arxiv.org/abs/2505.21285). The 43rd International Conference on Machine Learning.
 * **Xudong Wang**, Tongxin Li, Chris Ding, Jicong Fan. [Adaptive Riemannian Graph Neural Networks](https://ojs.aaai.org/index.php/AAAI/article/view/39869). AAAI 2026.
-* **Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding. [Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning](https://dl.acm.org/doi/full/10.1145/3744255.3798113). The 17th International Conference on Future and Sustainable Energy Systems.
-* Junyu Xue, **Xudong Wang**, Xiaoling He, Shicheng Liu, Yi Wang, Guoming Tang. [Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring](https://arxiv.org/abs/2505.06330). ACM BuildSys 2025.
 * **Xudong Wang**, Ziheng Sun, Chris Ding, Jicong Fan. [Explainable Graph Representation Learning via Graph Pattern Analysis](https://www.ijcai.org/proceedings/2025/0381.pdf). IJCAI 2025.
-* Yikai Lu, Tinko Sebastian Bartels, Ruixiang Wu, Fanzeng Xia, **Xudong Wang**, Yifei Wu, Haoxiang Yang, Tongxin Li. [Open In-Context Energy Management Platform](https://dl.acm.org/doi/full/10.1145/3679240.3734678). ACM e-Energy 2025.
-* Xin Liu, **Xudong Wang**, Pei Liu, Guoming Tang. [ZSMerge: Zero-Shot KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714). arXiv preprint.
-* Junyu Xue, Yu Zhang, **Xudong Wang**, Yi Wang, Guoming Tang. [Towards Real-world Deployment of NILM Systems: Challenges and Practices](https://arxiv.org/abs/2409.14821). IEEE SustainCom 2024，Best Paper Award.
-* Ziheng Sun, **Xudong Wang**, Chris Ding, Jicong Fan. [Learning Graph Representation via Graph Entropy Maximization](https://icml.cc/virtual/2024/poster/32687). ICML 2024.
-* Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, Hong Xu, **Xudong Wang**. [More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring](https://www.computer.org/csdl/proceedings-article/ithings-greencom-cpscom-smartdata-cybermatics/2022/541700a292/1Hcn1zhTUic). IEEE CPSCom 2022.
+* **Xudong Wang**, Guoming Tang, Junyu Xue, Srinivasan Keshav, Tongxin Li, Chris Ding. [Energy Injection Identification enabled Disaggregation with Deep Multi-Task Learning](https://dl.acm.org/doi/full/10.1145/3744255.3798113). The 17th International Conference on Future and Sustainable Energy Systems.
 * **Xudong Wang**, Guoming Tang, Yi Wang, Srinivasan Keshav, Yu Zhang. [EVSense: a robust and scalable approach to non-intrusive EV charging detection](https://dl.acm.org/doi/10.1145/3538637.3538860). ACM e-Energy 2022.
+* Ziheng Sun, **Xudong Wang**, Chris Ding, Jicong Fan. [Learning Graph Representation via Graph Entropy Maximization](https://icml.cc/virtual/2024/poster/32687). ICML 2024.
+* Junyu Xue, **Xudong Wang**, Xiaoling He, Shicheng Liu, Yi Wang, Guoming Tang. [Prompting Large Language Models for Training-Free Non-Intrusive Load Monitoring](https://arxiv.org/abs/2505.06330). ACM BuildSys 2025.
+* Xin Liu, **Xudong Wang**, Pei Liu, Guoming Tang. [ZSMerge: Zero-Shot KV Cache Compression for Memory-Efficient Long-Context LLMs](https://arxiv.org/abs/2503.10714). arXiv preprint.
+* Yikai Lu, Tinko Sebastian Bartels, Ruixiang Wu, Fanzeng Xia, **Xudong Wang**, Yifei Wu, Haoxiang Yang, Tongxin Li. [Open In-Context Energy Management Platform](https://dl.acm.org/doi/full/10.1145/3679240.3734678). ACM e-Energy 2025.
+* Junyu Xue, Yu Zhang, **Xudong Wang**, Yi Wang, Guoming Tang. [Towards Real-world Deployment of NILM Systems: Challenges and Practices](https://arxiv.org/abs/2409.14821). IEEE SustainCom 2024，Best Paper Award.
 * Ruixiang Wu, **Xudong Wang**, Tongxin Li. [Behavior-Aware Efficient Detection of Malicious EVs in V2G Systems](https://arxiv.org/abs/2411.06113). arXiv preprint arXiv:2411.06113, 2024.
+* Yu Zhang, Guoming Tang, Qianyi Huang, Yi Wang, Hong Xu, **Xudong Wang**. [More Behind Your Electricity Bill: a Dual-DNN Approach to Non-Intrusive Load Monitoring](https://www.computer.org/csdl/proceedings-article/ithings-greencom-cpscom-smartdata-cybermatics/2022/541700a292/1Hcn1zhTUic). IEEE CPSCom 2022.
 * 专利：一种电动汽车充电监测方法及系统。发明人：武洋静、**王旭东**；专利号 CN202210620528。
 
 教学经历
