@@ -44,7 +44,7 @@ redirect_from:
         <div class="news-list" tabindex="0" aria-label="Latest news list">
           <article class="news-item">
             <time datetime="2026-07-05">2026.07.05</time>
-            <p>🇰🇷 I will attend <a href="https://icml.cc/Conferences/2026">ICML 2026</a> in Seoul, South Korea from July 6-11. Poster: <em>Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection</em>, Thu, Jul 9, 2026, 3:30 AM-5:15 AM CEST, Hall A #2403. Please stop by for discussion or a coffee chat.</p>
+            <p>🇰🇷 I will attend <a href="https://icml.cc/Conferences/2026">ICML 2026</a> in Seoul, South Korea from July 6-11. Poster: <em>Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection</em>, Poster Session 6, Thursday, July 9, 2026, 10:30 AM-12:15 PM KST, HALL A · Poster #2403. Please stop by for discussion or a coffee chat.</p>
           </article>
           <article class="news-item">
             <time datetime="2026-06-24">2026.06.24</time>
@@ -120,7 +120,7 @@ redirect_from:
         <div class="news-list" tabindex="0" aria-label="最新动态列表">
           <article class="news-item">
             <time datetime="2026-07-05">2026.07.05</time>
-            <p>🇰🇷 我将于 2026.07.06-07.11 在韩国首尔参加 <a href="https://icml.cc/Conferences/2026">ICML 2026</a>。Poster：<em>Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection</em>，时间为 Thu, Jul 9, 2026, 3:30 AM-5:15 AM CEST，地点 Hall A #2403，欢迎来交流或 coffee chat。</p>
+            <p>🇰🇷 我将于 2026.07.06-07.11 在韩国首尔参加 <a href="https://icml.cc/Conferences/2026">ICML 2026</a>。Poster：<em>Learnable Kernel Density Estimation for Graphs and Its Application to Graph-Level Anomaly Detection</em>，Poster Session 6，时间为 Thursday, July 9, 2026, 10:30 AM-12:15 PM KST，地点 HALL A · Poster #2403，欢迎来交流或 coffee chat。</p>
           </article>
           <article class="news-item">
             <time datetime="2026-06-24">2026.06.24</time>
