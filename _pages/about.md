@@ -14,7 +14,7 @@ redirect_from:
   <div class="lang-block lang-en" data-lang-block="en">
     <section class="profile-hero" id="about">
       <h1>Dr. Xudong Wang</h1>
-      <p class="cv-job-note"><strong>Open to opportunities.</strong> I am actively exploring research and industry roles in AI algorithm research, multimodal and LLM systems, graph learning, smart grid intelligence, quantitative research, and related areas.</p>
+      <p class="cv-job-note"><strong>Open to opportunities.</strong> (PhD defense completed; degree to be conferred in Oct. 2026.) I am actively exploring research and industry roles in AI algorithm research, multimodal and LLM systems, graph learning, smart grid intelligence, quantitative research, and related areas.</p>
       <p class="profile-hero__lead">
         I received my PhD in Computer Science from the <a href="https://sds.cuhk.edu.cn/">School of Data Science</a>, <span class="nowrap">CUHK-Shenzhen</span>. My research focuses on artificial intelligence and machine learning, especially graph learning, smart grid intelligence, LLMs, multimodal learning, and energy analytics. My <span class="nowrap">CUHK-Shenzhen</span> profile is available <a href="https://sds.cuhk.edu.cn/node/728">here</a>, and I can be reached at <a href="mailto:xudongwang@link.cuhk.edu.cn">xudongwang@link.cuhk.edu.cn</a>.
       </p>
@@ -91,7 +91,7 @@ redirect_from:
   <div class="lang-block lang-zh" data-lang-block="zh" lang="zh-Hans">
     <section class="profile-hero" id="about-zh">
       <h1>王旭东 博士</h1>
-      <p class="cv-job-note"><strong>正在寻找工作与合作机会。</strong> 目前关注 AI 算法研究、多模态与大模型系统、图学习、智能电网智能决策、量化研究/交易等方向的研究和工业机会，欢迎交流。</p>
+      <p class="cv-job-note"><strong>正在寻找工作与合作机会。</strong>（博士毕业答辩已通过，预计于 2026 年 10 月正式毕业并获授博士学位。）目前关注 AI 算法研究、多模态与大模型系统、图学习、智能电网智能决策、量化研究/交易等方向的研究和工业机会，欢迎交流。</p>
       <p class="profile-hero__lead">
         我是香港中文大学（深圳）<a href="https://sds.cuhk.edu.cn/">数据科学学院</a>计算机科学博士。我的研究方向是人工智能与机器学习，重点关注图学习、智能电网、大语言模型、多模态学习，以及面向能源系统的数据分析方法。我在香港中文大学（深圳）的个人主页见<a href="https://sds.cuhk.edu.cn/node/728">这里</a>，也欢迎通过 <a href="mailto:xudongwang@link.cuhk.edu.cn">xudongwang@link.cuhk.edu.cn</a> 联系我。
       </p>

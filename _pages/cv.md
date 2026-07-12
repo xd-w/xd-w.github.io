@@ -16,7 +16,7 @@ redirect_from:
 
 <p class="cv-pdf-note"><a href="/files/WangXudong_CV_202606.pdf">Download PDF CV</a> · Last updated in June 2026.</p>
 
-<p class="cv-job-note"><strong>Open to opportunities.</strong> I am actively exploring research and industry roles in AI algorithm research, multimodal and LLM systems, graph learning, smart grid intelligence, quantitative research, and related areas.</p>
+<p class="cv-job-note"><strong>Open to opportunities.</strong> (PhD defense completed; degree to be conferred in Oct. 2026.) I am actively exploring research and industry roles in AI algorithm research, multimodal and LLM systems, graph learning, smart grid intelligence, quantitative research, and related areas.</p>
 
 Education
 ======
@@ -98,7 +98,7 @@ Awards
 
 <p class="cv-pdf-note"><a href="/files/WangXudong_CV_202606.pdf">下载 PDF 简历</a> · 最后更新于 2026 年 6 月。</p>
 
-<p class="cv-job-note"><strong>正在寻找工作与合作机会。</strong> 目前关注 AI 算法研究、多模态与大模型系统、图学习、智能电网智能决策、量化研究/交易等方向的研究和工业机会，欢迎交流。</p>
+<p class="cv-job-note"><strong>正在寻找工作与合作机会。</strong>（博士毕业答辩已通过，预计于 2026 年 10 月正式毕业并获授博士学位。）目前关注 AI 算法研究、多模态与大模型系统、图学习、智能电网智能决策、量化研究/交易等方向的研究和工业机会，欢迎交流。</p>
 
 教育背景
 ======
