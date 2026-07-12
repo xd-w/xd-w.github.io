@@ -14,9 +14,9 @@ redirect_from:
   <div class="lang-block lang-en" data-lang-block="en">
     <section class="profile-hero" id="about">
       <h1>Dr. Xudong Wang</h1>
-      <p class="cv-job-note"><strong>Open to opportunities.</strong> (PhD defense completed; degree to be conferred in Oct. 2026.) I am actively exploring research and industry roles in AI algorithm research, multimodal and LLM systems, graph learning, smart grid intelligence, quantitative research, and related areas.</p>
+      <p class="cv-job-note"><strong>Open to opportunities.</strong> (PhD defense completed; degree to be conferred in Oct. 2026.) I am actively exploring research and industry roles focused on AI algorithm research.</p>
       <p class="profile-hero__lead">
-        I received my PhD in Computer Science from the <a href="https://sds.cuhk.edu.cn/">School of Data Science</a>, <span class="nowrap">CUHK-Shenzhen</span>. My research focuses on artificial intelligence and machine learning, especially graph learning, smart grid intelligence, LLMs, multimodal learning, and energy analytics. My <span class="nowrap">CUHK-Shenzhen</span> profile is available <a href="https://sds.cuhk.edu.cn/node/728">here</a>, and I can be reached at <a href="mailto:xudongwang@link.cuhk.edu.cn">xudongwang@link.cuhk.edu.cn</a>.
+        I have completed my PhD defense in Computer Science at the <a href="https://sds.cuhk.edu.cn/">School of Data Science</a>, <span class="nowrap">CUHK-Shenzhen</span>, and expect to receive the PhD degree from The Chinese University of Hong Kong in October 2026. My research focuses on artificial intelligence and machine learning, especially graph learning, smart grid intelligence, LLMs, multimodal learning, and energy analytics. My <span class="nowrap">CUHK-Shenzhen</span> profile is available <a href="https://sds.cuhk.edu.cn/node/728">here</a>, and I can be reached at <a href="mailto:xudongwang@link.cuhk.edu.cn">xudongwang@link.cuhk.edu.cn</a>.
       </p>
       <p>
         My PhD research was primarily supervised by <a href="https://scholar.google.com/citations?user=q7FfnjgAAAAJ">Prof. Chris Ding (丁宏强)</a> and co-supervised by <a href="https://tongxin.me">Prof. Tongxin Li (李彤欣)</a>. During my PhD, I also worked closely with <a href="https://jicongfan.github.io/">Prof. Jicong Fan (樊继聪)</a> and <a href="https://guomingtang.github.io/">Prof. Guoming Tang (唐国明)</a>, and I am grateful for their research guidance and collaboration.
@@ -91,9 +91,9 @@ redirect_from:
   <div class="lang-block lang-zh" data-lang-block="zh" lang="zh-Hans">
     <section class="profile-hero" id="about-zh">
       <h1>王旭东 博士</h1>
-      <p class="cv-job-note"><strong>正在寻找工作与合作机会。</strong>（博士毕业答辩已通过，预计于 2026 年 10 月正式毕业并获授博士学位。）目前关注 AI 算法研究、多模态与大模型系统、图学习、智能电网智能决策、量化研究/交易等方向的研究和工业机会，欢迎交流。</p>
+      <p class="cv-job-note"><strong>正在寻找工作与合作机会。</strong>（博士毕业答辩已通过，预计于 2026 年 10 月正式毕业并获授博士学位。）目前主要关注 AI 算法研究相关的研究和工业机会，欢迎交流。</p>
       <p class="profile-hero__lead">
-        我是香港中文大学（深圳）<a href="https://sds.cuhk.edu.cn/">数据科学学院</a>计算机科学博士。我的研究方向是人工智能与机器学习，重点关注图学习、智能电网、大语言模型、多模态学习，以及面向能源系统的数据分析方法。我在香港中文大学（深圳）的个人主页见<a href="https://sds.cuhk.edu.cn/node/728">这里</a>，也欢迎通过 <a href="mailto:xudongwang@link.cuhk.edu.cn">xudongwang@link.cuhk.edu.cn</a> 联系我。
+        我已通过香港中文大学（深圳）<a href="https://sds.cuhk.edu.cn/">数据科学学院</a>计算机科学博士毕业答辩，预计将于 2026 年 10 月获授香港中文大学计算机科学博士学位。我的研究方向是人工智能与机器学习，重点关注图学习、智能电网、大语言模型、多模态学习，以及面向能源系统的数据分析方法。我在香港中文大学（深圳）的个人主页见<a href="https://sds.cuhk.edu.cn/node/728">这里</a>，也欢迎通过 <a href="mailto:xudongwang@link.cuhk.edu.cn">xudongwang@link.cuhk.edu.cn</a> 联系我。
       </p>
       <p>
         我的博士研究主要由<a href="https://scholar.google.com/citations?user=q7FfnjgAAAAJ">丁宏强教授（Prof. Chris Ding）</a>指导，并由<a href="https://tongxin.me">李彤欣教授（Prof. Tongxin Li）</a>联合指导；硕士阶段也师从丁宏强教授。博士期间，我还与<a href="https://jicongfan.github.io/">樊继聪教授</a>和<a href="https://guomingtang.github.io/">唐国明教授</a>紧密合作，并有幸得到他们在科研上的指导与帮助。
