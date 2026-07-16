@@ -22,7 +22,7 @@ redirect_from:
         My PhD research was primarily supervised by <a href="https://scholar.google.com/citations?user=q7FfnjgAAAAJ">Prof. Chris Ding (丁宏强)</a> and co-supervised by <a href="https://tongxin.me">Prof. Tongxin Li (李彤欣)</a>. During my PhD, I also worked closely with <a href="https://jicongfan.github.io/">Prof. Jicong Fan (樊继聪)</a> and <a href="https://guomingtang.github.io/">Prof. Guoming Tang (唐国明)</a>, and I am grateful for their research guidance and collaboration.
       </p>
       <p>
-        My work has appeared in leading machine learning and energy-system venues, including ICML, AAAI, IJCAI, ACM e-Energy, and ACM BuildSys, with presentations across these communities. I received the IEEE SustainCom 2024 Best Paper Award and the CUHK-Shenzhen Presidential Award for Outstanding Graduate Students. I regularly serve as a reviewer for leading AI and smart grid conferences and journals, and served as a Session Chair at PAKDD 2026. My current interests include LLM-enabled foundation models and multi-agent systems for graph learning and smart grid intelligence.
+        My work has appeared in leading machine learning and energy-system venues, including ICML, AAAI, IJCAI, ACM e-Energy, and ACM BuildSys, with presentations across these communities. I received the IEEE SustainCom 2024 Best Paper Award and the CUHK-Shenzhen Presidential Award for Outstanding Graduate Students. I regularly serve as a reviewer for leading AI and smart grid conferences and journals, and served as a Session Chair at PAKDD 2026.
       </p>
       <p>
         Before my PhD, I received an M.Sc. in Data Science from <span class="nowrap">CUHK-Shenzhen</span> in 2022, advised by Prof. Chris Ding. I received a B.Sc. in Statistics from the <a href="https://www.math.sdu.edu.cn/English.htm">School of Mathematics</a>, Shandong University, and a B.Econ. in Finance from the School of Economics, Shandong University, in 2020.
@@ -99,7 +99,7 @@ redirect_from:
         我的博士研究主要由<a href="https://scholar.google.com/citations?user=q7FfnjgAAAAJ">丁宏强教授（Prof. Chris Ding）</a>指导，并由<a href="https://tongxin.me">李彤欣教授（Prof. Tongxin Li）</a>联合指导；硕士阶段也师从丁宏强教授。博士期间，我还与<a href="https://jicongfan.github.io/">樊继聪教授</a>和<a href="https://guomingtang.github.io/">唐国明教授</a>紧密合作，并有幸得到他们在科研上的指导与帮助。
       </p>
       <p>
-        我的工作发表于 ICML、AAAI、IJCAI 等机器学习与人工智能领域顶级会议，以及 ACM e-Energy、ACM BuildSys 等智能能源系统会议，并在相关会议进行报告与展示；曾获 IEEE SustainCom 2024 Best Paper Award、香港中文大学（深圳）校长杰出研究生奖等荣誉。我长期担任人工智能领域国际会议和期刊审稿人，并曾担任 PAKDD 2026 Session Chair。目前，我也关注结合 LLMs 的图学习与能源系统基础模型、多智能体方法等方向。
+        我的工作发表于 ICML、AAAI、IJCAI 等机器学习与人工智能领域顶级会议，以及 ACM e-Energy、ACM BuildSys 等智能能源系统会议，并在相关会议进行报告与展示；曾获 IEEE SustainCom 2024 Best Paper Award、香港中文大学（深圳）校长杰出研究生奖等荣誉。我长期担任人工智能领域国际会议和期刊审稿人，并曾担任 PAKDD 2026 Session Chair。
       </p>
       <p>
         此前，我于 2022 年在香港中文大学（深圳）获得数据科学硕士学位。本科阶段，我于 2020 年获山东大学<a href="https://www.math.sdu.edu.cn/">数学学院</a>统计学 B.Sc. 学位，并获山东大学经济学院金融学 B.Econ. 辅修双学位。
